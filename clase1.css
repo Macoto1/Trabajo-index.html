@@ -1,0 +1,25 @@
+body{
+    background-image: url(backgrund3.jfif);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    opacity: 0.5;
+}
+header{
+    width: 100%;
+    height: 80px;
+    box-shadow: inset hoff voff blur #000;
+    text-align: center;
+    align-content: center;
+    background-color: antiquewhite;
+    opacity: 50%;
+}
+nav{
+    display: flex;
+    font-size: x-large;
+    background-color: blueviolet;
+    text-align: center;
+}
+nav div{
+    width: 25%;
+    height: 30px;
+}
